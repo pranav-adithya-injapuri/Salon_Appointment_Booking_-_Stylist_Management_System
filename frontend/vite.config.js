@@ -11,4 +11,5 @@ export default defineConfig({
         // nitro/vite builds from this
         server: { entry: "./src/server.js" },
     },
+    nitro: true,
 });
