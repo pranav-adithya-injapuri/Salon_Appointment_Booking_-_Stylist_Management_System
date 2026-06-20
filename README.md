@@ -3,7 +3,7 @@
 A comprehensive system for booking salon appointments and managing stylists seamlessly.
 
 ## 🔗 Live Demo
-**https://salon-appointment-booking-stylist-m.vercel.app/my-appointments(#)**
+**[Click Here to View Website](https://salon-appointment-booking-stylist-m.vercel.app/my-appointments)**
 
 ## 🚀 Features
 - Book, manage, and cancel salon appointments.
